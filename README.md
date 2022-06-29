@@ -6,4 +6,4 @@ Projeto prático referente as aulas de JavaScript pela [Digital Innovation One](
 
 ### Bootcamp - Spread Fullstack Developer
 
-- Criando um projeto de estacionamento com TypeScript
+- Criando um projeto de sistema de estacionamento com TypeScript
